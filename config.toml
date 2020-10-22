@@ -1,11 +1,11 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://devsres.com/moacir"
+baseurl                 = "https://devsres.com/fabio/"
 DefaultContentLanguage  = "en"
 title                   = "/dev/sres"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
-disqusShortname         = "devsres-moacir"
+disqusShortname         = "devsres-fabio"
 googleAnalytics         = "UA-177944209"
 pluralizeListTitles     = false
 disableLanguages        = []
@@ -42,14 +42,14 @@ publishDir = "docs"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "/dev/sres/moacir"
+    navbarTitle         = "/dev/sres/fabio"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Moacir"
+    header                = "fabio"
     paragraph             = "<b>TODO</b>"
     rssIntro              = true
     socialIntro           = true
@@ -57,10 +57,10 @@ publishDir = "docs"
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/moacir.jpeg"
+      src                 = "img/main/fabio.jpeg"
       shape               = "circle"
       width               = ""
-      alt                 = "/dev/sre/moacir"
+      alt                 = "/dev/sre/fabio"
 
   [params.sidebar]
     about               = "TODO"
@@ -130,7 +130,7 @@ publishDir = "docs"
 
 [social]
   # Coding Communities
-  github                = "moacirsouza"
+  github                = "fabiosouza"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -145,7 +145,7 @@ publishDir = "docs"
   # wordpress             = ""
   # medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "moacirsouza"
+  linkedin              = "fabiosouza"
   # linkedin_company      = "devsres"
   # foursquare            = ""
   # xing                  = ""

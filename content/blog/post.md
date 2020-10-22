@@ -6,7 +6,7 @@ date = "2020-10-21"
 tags = ["draft"]
 categories = ["draft"]
 [[images]]
-  src = "img/main/moacir.jpeg"
+  src = "img/main/fabio.jpeg"
   alt = "Square into circle and hammer"
   stretch = ""
 +++
